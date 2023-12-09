@@ -1,0 +1,15 @@
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\bin\Debug\net7.0\MenuEventsApp.exe
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\bin\Debug\net7.0\MenuEventsApp.deps.json
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\bin\Debug\net7.0\MenuEventsApp.runtimeconfig.json
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\bin\Debug\net7.0\MenuEventsApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\bin\Debug\net7.0\MenuEventsApp.pdb
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\MenuEventsApp.csproj.AssemblyReference.cache
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\MenuEventsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\MenuEventsApp.AssemblyInfoInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\MenuEventsApp.AssemblyInfo.cs
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\MenuEventsApp.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\MenuEventsApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\refint\MenuEventsApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\MenuEventsApp.pdb
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\MenuEventsApp.genruntimeconfig.cache
+D:\CSharp_Trials\AdvancedCSharp2\MenuEventsApp\obj\Debug\net7.0\ref\MenuEventsApp.dll

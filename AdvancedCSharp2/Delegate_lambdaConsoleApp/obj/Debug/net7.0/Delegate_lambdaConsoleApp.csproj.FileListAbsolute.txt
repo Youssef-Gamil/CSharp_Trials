@@ -1,0 +1,15 @@
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\bin\Debug\net7.0\Delegate_lambdaConsoleApp.exe
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\bin\Debug\net7.0\Delegate_lambdaConsoleApp.deps.json
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\bin\Debug\net7.0\Delegate_lambdaConsoleApp.runtimeconfig.json
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\bin\Debug\net7.0\Delegate_lambdaConsoleApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\bin\Debug\net7.0\Delegate_lambdaConsoleApp.pdb
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\Delegate_lambdaConsoleApp.csproj.AssemblyReference.cache
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\Delegate_lambdaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\Delegate_lambdaConsoleApp.AssemblyInfoInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\Delegate_lambdaConsoleApp.AssemblyInfo.cs
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\Delegate_lambdaConsoleApp.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\Delegate_lambdaConsoleApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\refint\Delegate_lambdaConsoleApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\Delegate_lambdaConsoleApp.pdb
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\Delegate_lambdaConsoleApp.genruntimeconfig.cache
+D:\CSharp_Trials\AdvancedCSharp2\Delegate_lambdaConsoleApp\obj\Debug\net7.0\ref\Delegate_lambdaConsoleApp.dll

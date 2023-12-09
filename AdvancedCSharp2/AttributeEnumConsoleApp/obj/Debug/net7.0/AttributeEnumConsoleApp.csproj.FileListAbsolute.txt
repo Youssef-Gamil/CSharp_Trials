@@ -1,0 +1,15 @@
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\bin\Debug\net7.0\AttributeEnumConsoleApp.exe
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\bin\Debug\net7.0\AttributeEnumConsoleApp.deps.json
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\bin\Debug\net7.0\AttributeEnumConsoleApp.runtimeconfig.json
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\bin\Debug\net7.0\AttributeEnumConsoleApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\bin\Debug\net7.0\AttributeEnumConsoleApp.pdb
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\AttributeEnumConsoleApp.csproj.AssemblyReference.cache
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\AttributeEnumConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\AttributeEnumConsoleApp.AssemblyInfoInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\AttributeEnumConsoleApp.AssemblyInfo.cs
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\AttributeEnumConsoleApp.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\AttributeEnumConsoleApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\refint\AttributeEnumConsoleApp.dll
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\AttributeEnumConsoleApp.pdb
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\AttributeEnumConsoleApp.genruntimeconfig.cache
+D:\CSharp_Trials\AdvancedCSharp2\AttributeEnumConsoleApp\obj\Debug\net7.0\ref\AttributeEnumConsoleApp.dll

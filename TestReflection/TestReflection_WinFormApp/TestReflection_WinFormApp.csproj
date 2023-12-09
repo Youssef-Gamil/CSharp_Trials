@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyClassLib_dll">
+      <HintPath>..\..\AdvancedCSharp2\MyClassLib_dll\bin\Debug\net7.0\MyClassLib_dll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\DelegateConsoleApp3.csproj.AssemblyReference.cache
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\DelegateConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\DelegateConsoleApp3.AssemblyInfoInputs.cache
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\DelegateConsoleApp3.AssemblyInfo.cs
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\DelegateConsoleApp3.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\bin\Debug\net7.0\DelegateConsoleApp3.exe
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\bin\Debug\net7.0\DelegateConsoleApp3.deps.json
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\bin\Debug\net7.0\DelegateConsoleApp3.runtimeconfig.json
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\bin\Debug\net7.0\DelegateConsoleApp3.dll
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\bin\Debug\net7.0\DelegateConsoleApp3.pdb
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\DelegateConsoleApp3.dll
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\refint\DelegateConsoleApp3.dll
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\DelegateConsoleApp3.pdb
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\DelegateConsoleApp3.genruntimeconfig.cache
+D:\CSharp_Trials\DelegateConsoleApp1\DelegateConsoleApp3\obj\Debug\net7.0\ref\DelegateConsoleApp3.dll

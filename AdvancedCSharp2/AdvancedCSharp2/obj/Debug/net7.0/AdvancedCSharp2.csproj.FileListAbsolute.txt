@@ -1,0 +1,15 @@
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\bin\Debug\net7.0\AdvancedCSharp2.exe
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\bin\Debug\net7.0\AdvancedCSharp2.deps.json
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\bin\Debug\net7.0\AdvancedCSharp2.runtimeconfig.json
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\bin\Debug\net7.0\AdvancedCSharp2.dll
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\bin\Debug\net7.0\AdvancedCSharp2.pdb
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\AdvancedCSharp2.csproj.AssemblyReference.cache
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\AdvancedCSharp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\AdvancedCSharp2.AssemblyInfoInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\AdvancedCSharp2.AssemblyInfo.cs
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\AdvancedCSharp2.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\AdvancedCSharp2.dll
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\refint\AdvancedCSharp2.dll
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\AdvancedCSharp2.pdb
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\AdvancedCSharp2.genruntimeconfig.cache
+D:\CSharp_Trials\AdvancedCSharp2\AdvancedCSharp2\obj\Debug\net7.0\ref\AdvancedCSharp2.dll

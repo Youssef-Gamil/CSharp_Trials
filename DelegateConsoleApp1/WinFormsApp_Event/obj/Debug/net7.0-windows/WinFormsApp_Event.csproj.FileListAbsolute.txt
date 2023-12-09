@@ -1,0 +1,17 @@
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\bin\Debug\net7.0-windows\WinFormsApp_Event.exe
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\bin\Debug\net7.0-windows\WinFormsApp_Event.deps.json
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\bin\Debug\net7.0-windows\WinFormsApp_Event.runtimeconfig.json
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\bin\Debug\net7.0-windows\WinFormsApp_Event.dll
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\bin\Debug\net7.0-windows\WinFormsApp_Event.pdb
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.csproj.AssemblyReference.cache
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.Form1.resources
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.csproj.GenerateResource.cache
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.AssemblyInfoInputs.cache
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.AssemblyInfo.cs
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.dll
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\refint\WinFormsApp_Event.dll
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.pdb
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\WinFormsApp_Event.genruntimeconfig.cache
+D:\CSharp_Trials\DelegateConsoleApp1\WinFormsApp_Event\obj\Debug\net7.0-windows\ref\WinFormsApp_Event.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ReflectionsWinFormsApp/1.0.0": {
+        "dependencies": {
+          "MyClassLib_dll": "1.0.0"
+        },
+        "runtime": {
+          "ReflectionsWinFormsApp.dll": {}
+        }
+      },
+      "MyClassLib_dll/1.0.0": {
+        "runtime": {
+          "MyClassLib_dll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReflectionsWinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyClassLib_dll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

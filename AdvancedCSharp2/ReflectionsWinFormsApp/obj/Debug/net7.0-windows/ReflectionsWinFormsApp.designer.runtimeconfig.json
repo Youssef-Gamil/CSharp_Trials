@@ -1,0 +1,25 @@
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "7.0.0"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "7.0.0"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\ygamil\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ygamil\\.nuget\\packages",
+      "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
