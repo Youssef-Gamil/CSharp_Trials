@@ -61,6 +61,7 @@
             btn_Run.TabIndex = 4;
             btn_Run.Text = "Run";
             btn_Run.UseVisualStyleBackColor = true;
+            btn_Run.Click += btn_Run_Click;
             // 
             // openFileDialog1
             // 

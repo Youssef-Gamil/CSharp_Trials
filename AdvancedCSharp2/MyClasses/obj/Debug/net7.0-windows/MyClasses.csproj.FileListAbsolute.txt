@@ -1,0 +1,15 @@
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\MyClasses.csproj.AssemblyReference.cache
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\MyClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\MyClasses.AssemblyInfoInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\MyClasses.AssemblyInfo.cs
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\MyClasses.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\bin\Debug\net7.0-windows\MyClasses.deps.json
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\bin\Debug\net7.0-windows\MyClasses.dll
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\bin\Debug\net7.0-windows\MyClasses.pdb
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\bin\Debug\net7.0-windows\MyClassLib_dll.dll
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\bin\Debug\net7.0-windows\MyClassLib_dll.pdb
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\MyClasses.csproj.CopyComplete
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\MyClasses.dll
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\refint\MyClasses.dll
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\MyClasses.pdb
+D:\CSharp_Trials\AdvancedCSharp2\MyClasses\obj\Debug\net7.0-windows\ref\MyClasses.dll

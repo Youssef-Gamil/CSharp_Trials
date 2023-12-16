@@ -6,6 +6,8 @@ namespace TestReflection_WinFormApp
     public partial class Form1 : Form
     {
         Type[] ts;
+        MethodInfo[] mis;
+
         public Form1()
         {
             InitializeComponent();
@@ -26,6 +28,7 @@ namespace TestReflection_WinFormApp
                 ts = m.GetTypes();
                 foreach (Type t in ts)
                 {
+                //    list_Classes.Items.Add(t);
                     //Attribute att = Attribute.GetCustomAttribute(t,typeof(HamadaAttribute));
                     // if (t.IsClass && !t.Name.EndsWith("Attribute") && !t.Name.StartsWith("<>"))
                     if (Attribute.IsDefined(t, typeof(HamadaAttribute)))
@@ -40,11 +43,19 @@ namespace TestReflection_WinFormApp
         {
             list_functions.Items.Clear();
             //method = function
-            MethodInfo[] mis = ts[list_Classes.SelectedIndex].GetMethods();
+            string x = list_Classes.SelectedItem.ToString();  //To get selected method name
+            mis = ts.FirstOrDefault(t => t.FullName.Equals(x, StringComparison.OrdinalIgnoreCase)).GetMethods(); // to search for it in types by using LINQ
             foreach (MethodInfo mi in mis)
             {
                 list_functions.Items.Add(mi.Name);
             }
+        }
+
+        private void btn_Run_Click(object sender, EventArgs e)
+        {
+            //string x = list_Classes.SelectedItem.ToString();  //To get selected method name
+            //object y = Activator.CreateInstance(ts.FirstOrDefault(t => t.FullName.Equals(x, StringComparison.OrdinalIgnoreCase)));
+            mis[list_functions.SelectedIndex].Invoke(null, null);
         }
     }
 }
