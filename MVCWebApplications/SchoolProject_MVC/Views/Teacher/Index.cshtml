@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Teacher>
+
+    <h1>List of School Teachers</h1>
+    @Html.ActionLink("Add new Teacher","Create")
+    <table class="table table-striped">
+        <tr>
+            <th>@Html.DisplayNameFor(x=>x.Name)</></th>     @*for UI Behaviour read from display attribute*@
+            <th>@Html.DisplayNameFor(x=>x.NationalId)</></th>
+            <th>@Html.DisplayNameFor(x=>x.PhoneNumber)</></th>
+            <th>@Html.DisplayNameFor(x=>x.BlogUrl)</></th>
+            <th>@Html.DisplayNameFor(x=>x.Email)</></th>
+            <th>@Html.DisplayNameFor(x=>x.Password)</></th>
+            <th>@Html.DisplayNameFor(x=>x.DOB)</></th>
+            <th>@Html.DisplayNameFor(x=>x.Salary)</></th>
+        </tr>
+    @foreach(var r in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(x=>r.Name)</td>    @*for UI Behaviour from other attributes*@
+            <td>@Html.DisplayFor(x=>r.NationalId)</td>
+            <td>@Html.DisplayFor(x=>r.PhoneNumber)</td>
+            <td>@Html.DisplayFor(x=>r.BlogUrl)</td>
+            <td>@Html.DisplayFor(x=>r.Email)</td>
+            <td>@Html.DisplayFor(x=>r.Password)</td>
+            <td>@Html.DisplayFor(x=>r.DOB)</td>
+            <td>@Html.DisplayFor(x=>r.Salary)</td>
+        </tr>
+    }
+</table>
