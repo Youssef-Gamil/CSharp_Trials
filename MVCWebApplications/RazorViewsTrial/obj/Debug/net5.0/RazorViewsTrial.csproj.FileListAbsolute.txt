@@ -1,0 +1,8 @@
+D:\CSharp_Trials\MVCWebApplications\RazorViewsTrial\obj\Debug\net5.0\RazorViewsTrial.csproj.AssemblyReference.cache
+D:\CSharp_Trials\MVCWebApplications\RazorViewsTrial\obj\Debug\net5.0\RazorViewsTrial.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\MVCWebApplications\RazorViewsTrial\obj\Debug\net5.0\RazorViewsTrial.AssemblyInfoInputs.cache
+D:\CSharp_Trials\MVCWebApplications\RazorViewsTrial\obj\Debug\net5.0\RazorViewsTrial.AssemblyInfo.cs
+D:\CSharp_Trials\MVCWebApplications\RazorViewsTrial\obj\Debug\net5.0\RazorViewsTrial.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\MVCWebApplications\RazorViewsTrial\obj\Debug\net5.0\RazorViewsTrial.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp_Trials\MVCWebApplications\RazorViewsTrial\obj\Debug\net5.0\RazorViewsTrial.RazorAssemblyInfo.cache
+D:\CSharp_Trials\MVCWebApplications\RazorViewsTrial\obj\Debug\net5.0\RazorViewsTrial.RazorAssemblyInfo.cs

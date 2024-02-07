@@ -1,0 +1,10 @@
+﻿@model RazorViewsTrial.Controllers.Company
+
+<h1>New Company</h1>
+<form method="post" action="">
+    @*<input Type = "Text" value="@Model.Name" name="Name"/> <br />*@
+    @*<input Type = "Text" value="@Model.Url" name="Url"/> <br />*@
+    Name: @Html.EditorFor(c=>c.Name)<br />
+    Url: @Html.EditorFor(C=>C.Url)<br />
+    <input Type = "Submit" value="Save" />
+</form>

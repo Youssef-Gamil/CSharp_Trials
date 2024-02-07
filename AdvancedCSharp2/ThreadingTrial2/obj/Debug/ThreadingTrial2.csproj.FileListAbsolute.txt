@@ -1,0 +1,11 @@
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\bin\Debug\ThreadingTrial2.exe.config
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\bin\Debug\ThreadingTrial2.exe
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\bin\Debug\ThreadingTrial2.pdb
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\obj\Debug\ThreadingTrial2.csproj.AssemblyReference.cache
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\obj\Debug\ThreadingTrial2.csproj.SuggestedBindingRedirects.cache
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\obj\Debug\ThreadingTrial2.Form1.resources
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\obj\Debug\ThreadingTrial2.Properties.Resources.resources
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\obj\Debug\ThreadingTrial2.csproj.GenerateResource.cache
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\obj\Debug\ThreadingTrial2.csproj.CoreCompileInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\obj\Debug\ThreadingTrial2.exe
+D:\CSharp_Trials\AdvancedCSharp2\ThreadingTrial2\obj\Debug\ThreadingTrial2.pdb

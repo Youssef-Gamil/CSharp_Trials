@@ -1,0 +1,30 @@
+﻿@model IEnumerable<RazorViewsTrial.Controllers.Company>
+
+    <h1>Companies List</h1>
+    <div>@Html.ActionLink("New Company","Create")</div>
+    <h2>Details</h2>
+    <table class="table table-bordered table-striped table-hover" >
+        <tr>
+            <th>@Html.DisplayNameFor(x=>x.Id)</th>  @*Html Helper to dynamically display property name*@
+            <th>@Html.DisplayNameFor(x=>x.Name)</th> @*to support multi languages in the future*@
+            <th>@Html.DisplayNameFor(x=>x.Url)</th>
+            <th>Delete</th>
+            <th>Edit</th>
+        </tr>
+        @foreach (var comp in Model)
+    {
+        <tr>
+            <td>@comp.Id</td>
+            <td>@comp.Name</td>
+            <td>@comp.Url</td>
+
+            @*<td><a href="/Company/Delete/@comp.Id">Delete</a></td>*@
+            <td>@Html.ActionLink("Delete Me","Delete",new {Id = comp.Id})</td>
+            <td>@Html.ActionLink("Edit Me","Edit",new {Id = comp.Id})</td>
+        </tr>
+    }
+    </table>
+
+@*@(Model.First(x=> x.Id == 1).Id + 10) explicit expression*@
+    <br />
+    @@youssef.com  @*escape char for @*@

@@ -1,0 +1,7 @@
+D:\CSharp_Trials\AdvancedCSharp2\Threading\obj\Debug\net5.0-windows\Threading.csproj.AssemblyReference.cache
+D:\CSharp_Trials\AdvancedCSharp2\Threading\obj\Debug\net5.0-windows\Threading.Form1.resources
+D:\CSharp_Trials\AdvancedCSharp2\Threading\obj\Debug\net5.0-windows\Threading.csproj.GenerateResource.cache
+D:\CSharp_Trials\AdvancedCSharp2\Threading\obj\Debug\net5.0-windows\Threading.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Trials\AdvancedCSharp2\Threading\obj\Debug\net5.0-windows\Threading.AssemblyInfoInputs.cache
+D:\CSharp_Trials\AdvancedCSharp2\Threading\obj\Debug\net5.0-windows\Threading.AssemblyInfo.cs
+D:\CSharp_Trials\AdvancedCSharp2\Threading\obj\Debug\net5.0-windows\Threading.csproj.CoreCompileInputs.cache
