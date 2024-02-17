@@ -4,14 +4,16 @@
     @Html.ActionLink("Add new Teacher","Create")
     <table class="table table-striped">
         <tr>
-            <th>@Html.DisplayNameFor(x=>x.Name)</></th>     @*for UI Behaviour read from display attribute*@
-            <th>@Html.DisplayNameFor(x=>x.NationalId)</></th>
-            <th>@Html.DisplayNameFor(x=>x.PhoneNumber)</></th>
-            <th>@Html.DisplayNameFor(x=>x.BlogUrl)</></th>
-            <th>@Html.DisplayNameFor(x=>x.Email)</></th>
-            <th>@Html.DisplayNameFor(x=>x.Password)</></th>
-            <th>@Html.DisplayNameFor(x=>x.DOB)</></th>
-            <th>@Html.DisplayNameFor(x=>x.Salary)</></th>
+            <th>@Html.DisplayNameFor(x=>x.Name)</th>     @*for UI Behaviour read from display attribute*@
+            <th>@Html.DisplayNameFor(x=>x.NationalId)</th>
+            <th>@Html.DisplayNameFor(x=>x.PhoneNumber)</th>
+            <th>@Html.DisplayNameFor(x=>x.BlogUrl)</th>
+            <th>@Html.DisplayNameFor(x=>x.Email)</th>
+            <th>@Html.DisplayNameFor(x=>x.Password)</th>
+            <th>@Html.DisplayNameFor(x=>x.DOB)</th>
+            <th>@Html.DisplayNameFor(x=>x.Salary)</th>
+            <th>Edit</th>
+            <th>Delete</th>
         </tr>
     @foreach(var r in Model)
     {
@@ -24,6 +26,8 @@
             <td>@Html.DisplayFor(x=>r.Password)</td>
             <td>@Html.DisplayFor(x=>r.DOB)</td>
             <td>@Html.DisplayFor(x=>r.Salary)</td>
+            <td>@Html.ActionLink("Edit","Edit",new {id = r.Id})</td>
+                <td>@Html.ActionLink("Delete","Delete",new {id = r.Id})</td>
         </tr>
     }
 </table>

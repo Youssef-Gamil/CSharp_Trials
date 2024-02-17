@@ -1,0 +1,55 @@
+﻿@model Teacher
+<h1>Edit Teatcher Data:</h1>
+<form method="Post" action="" novalidate="novalidate" >
+
+    <div class="form-group">
+        @Html.DisplayNameFor(x => x.Name)<br />
+        @Html.EditorFor(x => x.Name,new { HttpAttriputes = new {@class = "form-control"}})<br />
+        @Html.ValidationMessageFor(x=>x.Name,"", new { @class="text-danger"})
+    </div>
+
+    <div class="form-group">
+       @Html.DisplayNameFor(x => x.BlogUrl)<br />
+       @Html.EditorFor(x => x.BlogUrl,new { HttpAttriputes = new {@class = "form-control"}})<br />
+       @Html.ValidationMessageFor(x=>x.BlogUrl,"", new { @class="text-danger"})
+    </div>
+
+    <div class="form-group">
+        @Html.DisplayNameFor(x=>x.Email)<br />
+        @Html.EditorFor(x=>x.Email,new{httpAttributes = new{@class="form-control"}})<br />
+        @Html.ValidationMessageFor(x=>x.Email,"",new{@class="text-danger"})
+    </div>
+
+    <div class="form-group">
+        @Html.DisplayNameFor(x=>x.Password)<br />
+        @Html.EditorFor(x=>x.Password,new{httpAttributes = new{@class="form-control"}})<br />
+        @Html.ValidationMessageFor(x=>x.Password,"",new{@class="text-danger"})
+    </div>
+
+    <div class="form-group">
+        @Html.DisplayNameFor(x=>x.NationalId)<br />
+        @Html.EditorFor(x=>x.NationalId,new{httpAttributes = new{@class="form-control"}})<br />
+        @Html.ValidationMessageFor(x=>x.NationalId,"",new{@class="text-danger"})
+    </div>
+
+    <div class="form-group">
+        @Html.DisplayNameFor(x=>x.DOB)<br />
+        @Html.EditorFor(x=>x.DOB,new{httpAttributes = new{@class="form-control"}})<br />
+        @Html.ValidationMessageFor(x=>x.DOB,"",new{@class="text-danger"})
+    </div>
+
+    <div class="form-group">
+        @Html.DisplayNameFor(x=>x.PhoneNumber)<br />
+        @Html.EditorFor(x=>x.PhoneNumber,new{httpAttributes = new{@class="form-control"}})<br />
+        @Html.ValidationMessageFor(x=>x.PhoneNumber,"",new{@class="text-danger"})
+    </div>
+
+    <div class="form-group">
+        @Html.DisplayNameFor(x=>x.Salary)<br />
+        @Html.EditorFor(x=>x.Salary,new{httpAttributes = new{@class="form-control"}})<br />
+        @Html.ValidationMessageFor(x=>x.Salary,"",new{@class="text-danger"})
+    </div>
+
+    <input type="submit" value="save"/> <br />
+    @Html.ActionLink("Back To List","Index")
+</form>
